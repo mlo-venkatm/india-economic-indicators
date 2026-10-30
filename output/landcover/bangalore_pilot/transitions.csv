@@ -1,0 +1,97 @@
+region_id,region_label,from_class,to_class,area_ha,period
+whitefield,Whitefield (east IT corridor),water,water,33.00843410026699,2018-2019 -> 2025-2026
+whitefield,Whitefield (east IT corridor),water,trees,2.673530322265625,2018-2019 -> 2025-2026
+whitefield,Whitefield (east IT corridor),water,open_land,4.9881008438110355,2018-2019 -> 2025-2026
+whitefield,Whitefield (east IT corridor),water,built,3.6127717109680177,2018-2019 -> 2025-2026
+whitefield,Whitefield (east IT corridor),trees,water,0.16466106567382813,2018-2019 -> 2025-2026
+whitefield,Whitefield (east IT corridor),trees,trees,157.8561716455916,2018-2019 -> 2025-2026
+whitefield,Whitefield (east IT corridor),trees,open_land,42.480254156921966,2018-2019 -> 2025-2026
+whitefield,Whitefield (east IT corridor),trees,built,104.39221987844446,2018-2019 -> 2025-2026
+whitefield,Whitefield (east IT corridor),open_land,water,2.3679855388117765,2018-2019 -> 2025-2026
+whitefield,Whitefield (east IT corridor),open_land,trees,35.11536502876427,2018-2019 -> 2025-2026
+whitefield,Whitefield (east IT corridor),open_land,open_land,110.26673310932854,2018-2019 -> 2025-2026
+whitefield,Whitefield (east IT corridor),open_land,built,139.7291363368556,2018-2019 -> 2025-2026
+whitefield,Whitefield (east IT corridor),built,water,0.939533748626709,2018-2019 -> 2025-2026
+whitefield,Whitefield (east IT corridor),built,trees,14.447286300407859,2018-2019 -> 2025-2026
+whitefield,Whitefield (east IT corridor),built,open_land,4.038257148284912,2018-2019 -> 2025-2026
+whitefield,Whitefield (east IT corridor),built,built,2280.5722082757225,2018-2019 -> 2025-2026
+whitefield,Whitefield (east IT corridor),built,snow_and_ice,0.058113098907470705,2018-2019 -> 2025-2026
+sarjapur_road,Sarjapur Road (south-east corridor),water,water,27.39668430599736,2018-2019 -> 2025-2026
+sarjapur_road,Sarjapur Road (south-east corridor),water,trees,1.463136740875244,2018-2019 -> 2025-2026
+sarjapur_road,Sarjapur Road (south-east corridor),water,open_land,2.3642876541137694,2018-2019 -> 2025-2026
+sarjapur_road,Sarjapur Road (south-east corridor),water,built,1.4339860450744628,2018-2019 -> 2025-2026
+sarjapur_road,Sarjapur Road (south-east corridor),trees,water,9.14647056503296,2018-2019 -> 2025-2026
+sarjapur_road,Sarjapur Road (south-east corridor),trees,trees,458.3072830127699,2018-2019 -> 2025-2026
+sarjapur_road,Sarjapur Road (south-east corridor),trees,open_land,237.30658749397426,2018-2019 -> 2025-2026
+sarjapur_road,Sarjapur Road (south-east corridor),trees,built,300.34761208071166,2018-2019 -> 2025-2026
+sarjapur_road,Sarjapur Road (south-east corridor),open_land,water,27.66339492340088,2018-2019 -> 2025-2026
+sarjapur_road,Sarjapur Road (south-east corridor),open_land,trees,149.52552808781638,2018-2019 -> 2025-2026
+sarjapur_road,Sarjapur Road (south-east corridor),open_land,open_land,773.9698500390369,2018-2019 -> 2025-2026
+sarjapur_road,Sarjapur Road (south-east corridor),open_land,built,846.4433910736643,2018-2019 -> 2025-2026
+sarjapur_road,Sarjapur Road (south-east corridor),built,water,1.724623129272461,2018-2019 -> 2025-2026
+sarjapur_road,Sarjapur Road (south-east corridor),built,trees,19.53095439839083,2018-2019 -> 2025-2026
+sarjapur_road,Sarjapur Road (south-east corridor),built,open_land,11.554591607121486,2018-2019 -> 2025-2026
+sarjapur_road,Sarjapur Road (south-east corridor),built,built,2909.816589053161,2018-2019 -> 2025-2026
+electronic_city,Electronic City (south),water,water,36.9419058827837,2018-2019 -> 2025-2026
+electronic_city,Electronic City (south),water,trees,1.146011145994897,2018-2019 -> 2025-2026
+electronic_city,Electronic City (south),water,open_land,16.2640555940845,2018-2019 -> 2025-2026
+electronic_city,Electronic City (south),water,built,17.41861863015568,2018-2019 -> 2025-2026
+electronic_city,Electronic City (south),trees,water,1.036886700439453,2018-2019 -> 2025-2026
+electronic_city,Electronic City (south),trees,trees,71.07367095634008,2018-2019 -> 2025-2026
+electronic_city,Electronic City (south),trees,open_land,10.87355384525673,2018-2019 -> 2025-2026
+electronic_city,Electronic City (south),trees,built,64.8554787054594,2018-2019 -> 2025-2026
+electronic_city,Electronic City (south),open_land,water,5.339594710540771,2018-2019 -> 2025-2026
+electronic_city,Electronic City (south),open_land,trees,20.77471895670875,2018-2019 -> 2025-2026
+electronic_city,Electronic City (south),open_land,open_land,46.56577889479986,2018-2019 -> 2025-2026
+electronic_city,Electronic City (south),open_land,built,150.6088042866489,2018-2019 -> 2025-2026
+electronic_city,Electronic City (south),built,water,0.46514933776855466,2018-2019 -> 2025-2026
+electronic_city,Electronic City (south),built,trees,12.551714946959253,2018-2019 -> 2025-2026
+electronic_city,Electronic City (south),built,open_land,4.396667647253298,2018-2019 -> 2025-2026
+electronic_city,Electronic City (south),built,built,2744.784877082275,2018-2019 -> 2025-2026
+north_airport_corridor,Yelahanka - airport corridor (north),water,water,145.80716117381078,2018-2019 -> 2025-2026
+north_airport_corridor,Yelahanka - airport corridor (north),water,trees,0.7066198806762696,2018-2019 -> 2025-2026
+north_airport_corridor,Yelahanka - airport corridor (north),water,open_land,9.932361669158935,2018-2019 -> 2025-2026
+north_airport_corridor,Yelahanka - airport corridor (north),water,built,11.500065113067627,2018-2019 -> 2025-2026
+north_airport_corridor,Yelahanka - airport corridor (north),trees,water,14.942941995056751,2018-2019 -> 2025-2026
+north_airport_corridor,Yelahanka - airport corridor (north),trees,trees,820.5669703599041,2018-2019 -> 2025-2026
+north_airport_corridor,Yelahanka - airport corridor (north),trees,open_land,264.1388032330352,2018-2019 -> 2025-2026
+north_airport_corridor,Yelahanka - airport corridor (north),trees,built,312.4820501168854,2018-2019 -> 2025-2026
+north_airport_corridor,Yelahanka - airport corridor (north),open_land,water,105.5091353816343,2018-2019 -> 2025-2026
+north_airport_corridor,Yelahanka - airport corridor (north),open_land,trees,369.03168505764836,2018-2019 -> 2025-2026
+north_airport_corridor,Yelahanka - airport corridor (north),open_land,open_land,2234.030657818398,2018-2019 -> 2025-2026
+north_airport_corridor,Yelahanka - airport corridor (north),open_land,built,1514.2256395532079,2018-2019 -> 2025-2026
+north_airport_corridor,Yelahanka - airport corridor (north),built,water,9.167080703735351,2018-2019 -> 2025-2026
+north_airport_corridor,Yelahanka - airport corridor (north),built,trees,57.65444231961418,2018-2019 -> 2025-2026
+north_airport_corridor,Yelahanka - airport corridor (north),built,open_land,59.736829696996345,2018-2019 -> 2025-2026
+north_airport_corridor,Yelahanka - airport corridor (north),built,built,4919.318521297349,2018-2019 -> 2025-2026
+bannerghatta_edge,Bannerghatta Road / national park edge,water,water,104.74311613128064,2018-2019 -> 2025-2026
+bannerghatta_edge,Bannerghatta Road / national park edge,water,trees,7.608939437851247,2018-2019 -> 2025-2026
+bannerghatta_edge,Bannerghatta Road / national park edge,water,open_land,9.754120637105306,2018-2019 -> 2025-2026
+bannerghatta_edge,Bannerghatta Road / national park edge,water,built,11.268224300103281,2018-2019 -> 2025-2026
+bannerghatta_edge,Bannerghatta Road / national park edge,trees,water,5.398417407226563,2018-2019 -> 2025-2026
+bannerghatta_edge,Bannerghatta Road / national park edge,trees,trees,1380.0288344600924,2018-2019 -> 2025-2026
+bannerghatta_edge,Bannerghatta Road / national park edge,trees,open_land,47.26723320388794,2018-2019 -> 2025-2026
+bannerghatta_edge,Bannerghatta Road / national park edge,trees,built,126.90646681456927,2018-2019 -> 2025-2026
+bannerghatta_edge,Bannerghatta Road / national park edge,open_land,water,10.28217473297119,2018-2019 -> 2025-2026
+bannerghatta_edge,Bannerghatta Road / national park edge,open_land,trees,164.57850072605507,2018-2019 -> 2025-2026
+bannerghatta_edge,Bannerghatta Road / national park edge,open_land,open_land,589.1672109217078,2018-2019 -> 2025-2026
+bannerghatta_edge,Bannerghatta Road / national park edge,open_land,built,398.66773268192696,2018-2019 -> 2025-2026
+bannerghatta_edge,Bannerghatta Road / national park edge,built,water,3.5275546852111814,2018-2019 -> 2025-2026
+bannerghatta_edge,Bannerghatta Road / national park edge,built,trees,30.132034964826993,2018-2019 -> 2025-2026
+bannerghatta_edge,Bannerghatta Road / national park edge,built,open_land,35.98780457033346,2018-2019 -> 2025-2026
+bannerghatta_edge,Bannerghatta Road / national park edge,built,built,3263.8394135052135,2018-2019 -> 2025-2026
+old_core,Old core (Basavanagudi–Malleshwaram),water,water,32.98166107904467,2018-2019 -> 2025-2026
+old_core,Old core (Basavanagudi–Malleshwaram),water,trees,0.28090305938720705,2018-2019 -> 2025-2026
+old_core,Old core (Basavanagudi–Malleshwaram),water,built,0.2808863914489746,2018-2019 -> 2025-2026
+old_core,Old core (Basavanagudi–Malleshwaram),trees,water,0.05811802062988281,2018-2019 -> 2025-2026
+old_core,Old core (Basavanagudi–Malleshwaram),trees,trees,175.9802674691863,2018-2019 -> 2025-2026
+old_core,Old core (Basavanagudi–Malleshwaram),trees,open_land,0.47460482940673826,2018-2019 -> 2025-2026
+old_core,Old core (Basavanagudi–Malleshwaram),trees,built,11.277808218880448,2018-2019 -> 2025-2026
+old_core,Old core (Basavanagudi–Malleshwaram),open_land,water,0.20342842025756835,2018-2019 -> 2025-2026
+old_core,Old core (Basavanagudi–Malleshwaram),open_land,trees,2.960030597435446,2018-2019 -> 2025-2026
+old_core,Old core (Basavanagudi–Malleshwaram),open_land,open_land,35.91237397278129,2018-2019 -> 2025-2026
+old_core,Old core (Basavanagudi–Malleshwaram),open_land,built,9.450056168114157,2018-2019 -> 2025-2026
+old_core,Old core (Basavanagudi–Malleshwaram),built,water,0.967809291827632,2018-2019 -> 2025-2026
+old_core,Old core (Basavanagudi–Malleshwaram),built,trees,20.78531820145551,2018-2019 -> 2025-2026
+old_core,Old core (Basavanagudi–Malleshwaram),built,open_land,3.506207325744629,2018-2019 -> 2025-2026
+old_core,Old core (Basavanagudi–Malleshwaram),built,built,3444.888855106692,2018-2019 -> 2025-2026

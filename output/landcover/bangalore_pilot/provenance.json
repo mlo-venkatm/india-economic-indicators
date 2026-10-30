@@ -1,0 +1,11 @@
+{
+  "config_path": "research/bangalore_pilot/config.json",
+  "config_sha256": "7ef9eb305af13458da13d28b664be6836b6f8c994fc9cced144c2d83ffd7d018",
+  "retrieved_at": "2026-10-30T14:34:52+00:00",
+  "earthengine_api_version": "1.7.50",
+  "datasets": [
+    "GOOGLE/DYNAMICWORLD/V1",
+    "COPERNICUS/S2_HARMONIZED",
+    "GOOGLE/CLOUD_SCORE_PLUS/V1/S2_HARMONIZED"
+  ]
+}

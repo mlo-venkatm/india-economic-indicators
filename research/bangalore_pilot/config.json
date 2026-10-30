@@ -1,0 +1,50 @@
+{
+  "name": "bangalore_pilot",
+  "description": "Land-cover change pilot: Bangalore growth corridors vs a mature core reference",
+  "window": {
+    "months": [1, 2, 3],
+    "label": "Jan-Mar (dry season)",
+    "years": [2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026],
+    "low_observation_years": [2016, 2017]
+  },
+  "transitions": {
+    "baseline_years": [2018, 2019],
+    "end_years": [2025, 2026]
+  },
+  "scale_m": 10,
+  "cloud_score_plus_threshold": 0.6,
+  "regions_status": "PROVISIONAL hand-drawn rectangles from approximate coordinates; verify on a map before drawing conclusions",
+  "regions": {
+    "whitefield": {
+      "label": "Whitefield (east IT corridor)",
+      "role": "growth",
+      "bbox": [77.72, 12.95, 77.78, 13.00]
+    },
+    "sarjapur_road": {
+      "label": "Sarjapur Road (south-east corridor)",
+      "role": "growth",
+      "bbox": [77.68, 12.86, 77.79, 12.92]
+    },
+    "electronic_city": {
+      "label": "Electronic City (south)",
+      "role": "growth",
+      "bbox": [77.64, 12.82, 77.70, 12.87]
+    },
+    "north_airport_corridor": {
+      "label": "Yelahanka - airport corridor (north)",
+      "role": "growth",
+      "bbox": [77.60, 13.08, 77.70, 13.20]
+    },
+    "bannerghatta_edge": {
+      "label": "Bannerghatta Road / national park edge",
+      "role": "growth_vs_forest",
+      "bbox": [77.55, 12.78, 77.62, 12.87]
+    },
+    "old_core": {
+      "label": "Old core (Basavanagudi–Malleshwaram)",
+      "notes": "Includes Lalbagh and Cubbon Park",
+      "role": "reference",
+      "bbox": [77.56, 12.93, 77.60, 13.01]
+    }
+  }
+}

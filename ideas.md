@@ -51,7 +51,8 @@ One Dynamic World pipeline producing, per region and year (same post-monsoon win
 
 Computed server-side in Earth Engine; export tables, not 10 m rasters.
 
-**Pilot regions:** Pune periphery (Hinjewadi, Wagholi, Kharadi, Hadapsar), one
+**Pilot regions:** Bangalore growth corridors (Whitefield, Sarjapur Road, Electronic City,
+Yelahanka–airport, Bannerghatta edge) vs the old core — see `research/bangalore_pilot/`. Later: one
 forest/mining district, optionally Leh (already has NTL results).
 
 ### Sub-city nighttime lights
