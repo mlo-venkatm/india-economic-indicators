@@ -7,3 +7,4 @@ earthengine-api
 requests
 scipy
 csaps
+jupyter
