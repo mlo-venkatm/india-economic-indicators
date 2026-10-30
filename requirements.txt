@@ -6,3 +6,4 @@ shapely
 earthengine-api
 requests
 scipy
+csaps
