@@ -66,3 +66,5 @@ Read `ideas.md` for principles, process, and the idea backlog.
 - Work happens on feature branches in the user's fork; `upstream` is
   `abhijitvaidya/nighttime-lights-india`.
 - Don't push to or open PRs against upstream without the user's explicit go-ahead.
+- `gh pr create` targets the upstream parent by default in a fork — always pass
+  `--repo mlo-venkatm/india-economic-indicators` for our own PRs.
