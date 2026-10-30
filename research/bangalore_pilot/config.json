@@ -13,7 +13,7 @@
   },
   "scale_m": 10,
   "cloud_score_plus_threshold": 0.6,
-  "regions_status": "PROVISIONAL hand-drawn rectangles from approximate coordinates; verify on a map before drawing conclusions",
+  "regions_status": "Rectangles verified on a map by the author on 2026-10-30 as covering the intended localities. Not official boundaries: describe as 'the area around X', not 'X ward'.",
   "regions": {
     "whitefield": {
       "label": "Whitefield (east IT corridor)",

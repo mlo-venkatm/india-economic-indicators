@@ -9,10 +9,10 @@ and how fast did their built-up share rise relative to the mature core?
 
 ## Regions
 Six rectangles in `config.json` — four growth corridors, one growth-vs-forest edge
-(Bannerghatta), one mature reference core. **Provisional:** drawn from approximate
-coordinates, not official boundaries. Results are about these rectangles, not the
-named localities' administrative areas. Replace with ward/locality polygons before
-publishing anything.
+(Bannerghatta), one mature reference core. Drawn from approximate coordinates, then
+**verified on a map by the author (2026-10-30)** as covering the intended localities.
+They are still rectangles, not official boundaries: results describe "the area around X",
+not X's administrative area. Ward/locality polygons remain a later refinement.
 
 ## Data
 | Purpose | Dataset | Notes |
@@ -79,3 +79,5 @@ compromise.
 - 2026-10-30: Old-core display label shortened for chart legibility (config `label`; the
   parks note moved to `notes`). Cosmetic only — no geometry or parameter changed; pipeline
   re-run so `provenance.json` matches the committed config.
+- 2026-10-30: All six rectangles verified on a map by the author; `regions_status` updated.
+  No coordinates changed. Pipeline re-run so provenance matches the config.

@@ -15,12 +15,13 @@ Each entry: claim, evidence, caveats, confidence. Articles draw only from **medi
   `built_share_2018_2026.png`, `built_share_timeseries.png` (produced by `landcover.py`).
 - **Supports it:** both measures (label share and mean probability) rise in every growth
   region; rises are near-monotonic year to year; the reference is flat.
-- **Caveats:** provisional rectangles, not official localities; label share inflates levels
+- **Caveats:** rectangles (map-verified by the author, 2026-10-30), not official localities; label share inflates levels
   (mean-probability levels are ~20–30 pp lower) — quote *changes*, not levels; no ground
   truth yet.
-- **Confidence:** **medium** for direction and ranking; **low** for exact magnitudes.
-- **To raise confidence:** official locality polygons; cross-check with Google Open Buildings
-  temporal or another built-up product.
+- **Confidence:** **medium** for direction and ranking (regions now map-verified); **low** for
+  exact magnitudes.
+- **To raise confidence:** cross-check with Google Open Buildings temporal or another
+  built-up product (main remaining gap); official locality polygons.
 
 ## F2 — Growth mostly consumed open land; tree loss to building is smaller but real
 - **Date:** 2026-10-30 · **Pilot:** `research/bangalore_pilot`
